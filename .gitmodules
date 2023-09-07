@@ -1,0 +1,3 @@
+[submodule "CR"]
+	path = CR
+	url = https://github.com/GSE79/CR.git
