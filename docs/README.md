@@ -8,8 +8,8 @@ Documentation for operators, distributors, and repository managers.
 - - [Log in with Freezer Credentials](https://github.com/GSE79/ICB/tree/main/docs#Log-in-with-Freezer-Credentials)
 # User Interface Revolution Freezer Controller
 ## Home Screen No Motor
-[image](/docs/HomeScreen_NoMotor.png)
+[image](/docs/images/HomeScreen_NoMotor.png)
 # Data and Notifications Freezer Gateway
 # Web User Interface Remote Monitor and Control
 ## Log in with Freezer Credentials
-[image](/docs/WebViewer_Login.png)
+[image](/docs/images/WebViewer_Login.png)
