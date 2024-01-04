@@ -3,6 +3,8 @@ Documentation for operators, distributors, and repository managers.
 # Contents
 - [User Interface - Revolution Freezer Controller](https://github.com/GSE79/ICB/tree/main/docs#User-Interface-Revolution-Freezer-Controller)
 - - [Home Screen - No Motor](https://github.com/GSE79/ICB/tree/main/docs#Home-Screen-No-Motor)
+- - [Log Files](https://github.com/GSE79/ICB/tree/main/docs#Log-Files)
+- - - [Alarms Bits](https://github.com/GSE79/ICB/tree/main/docs#Alarms-Bits) 
 - [Data and Notifications - Freezer Gateway](https://github.com/GSE79/ICB/tree/main/docs#Data-and-Notifications-Freezer-Gateway)
 - - [Notification Text Description](https://github.com/GSE79/ICB/tree/main/docs#Notification-Text-Description)
 - - - [Notification Subject](https://github.com/GSE79/ICB/tree/main/docs#Notification-Subject)
@@ -12,6 +14,12 @@ Documentation for operators, distributors, and repository managers.
 # User Interface Revolution Freezer Controller
 ## Home Screen No Motor
 ![HomeScreenNoMotor](/docs/images/HomeScreen_NoMotor.png)
+## Log Files
+Operations logging and cyclic data logging files both contain current alarms bits.
+### Alarms Bits
+-  Bit 0 - 
+-  Bit 1 - 
+-  Bit 2 - 
 # Data and Notifications Freezer Gateway
 ## Notification Text Description
 - Notification of Alarms and/or Access can be configured from the User Interface of the Freezer.
